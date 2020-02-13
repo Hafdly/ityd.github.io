@@ -1,4 +1,5 @@
 @import url(fontawesome-all.min.css);
+@import url(malkovianicas.css);
 
 /*
 	Hyperspace by HTML5 UP
@@ -2593,11 +2594,11 @@ input, select, textarea {
 				}
 
 				.wrapper.style3 .icon.major:before {
-					color: #b74e91;
+					color: #3e4094;
 				}
 
 				.wrapper.style3-alt .icon.major:before {
-					color: #953d75;
+					color: #3e4094;
 				}
 
 /* Image */
